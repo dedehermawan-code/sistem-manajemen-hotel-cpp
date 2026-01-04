@@ -1,0 +1,2 @@
+PELANGGAN|P001|Budi Santoso|budi@email.com|081234567890|pass123|1|Jakarta|0|0
+PELANGGAN|P002|Ani Wijaya|ani@email.com|081234567891|pass456|1|Bandung|0|0
